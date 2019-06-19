@@ -1,0 +1,7 @@
+[27-Aug-2018 03:04:48 UTC] PHP Warning:  move_uploaded_file(uploads/Screen Shot 2018-07-30 at 13.55.58.png): failed to open stream: No such file or directory in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 22
+[27-Aug-2018 03:04:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNIJy17' to 'uploads/Screen Shot 2018-07-30 at 13.55.58.png' in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 22
+[27-Aug-2018 03:06:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 30
+[27-Aug-2018 03:09:03 UTC] PHP Warning:  move_uploaded_file(uploads/Screen Shot 2018-07-30 at 13.47.42.png): failed to open stream: No such file or directory in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 22
+[27-Aug-2018 03:09:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpu1wVIv' to 'uploads/Screen Shot 2018-07-30 at 13.47.42.png' in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 22
+[27-Aug-2018 03:09:33 UTC] PHP Warning:  move_uploaded_file(uploads/Screen Shot 2018-07-30 at 13.47.42.png): failed to open stream: No such file or directory in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 22
+[27-Aug-2018 03:09:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpq66tXv' to 'uploads/Screen Shot 2018-07-30 at 13.47.42.png' in /home/dapps/public_html/BATMAN/CRUD_mamad/Process/insert.php on line 22
